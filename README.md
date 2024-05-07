@@ -119,12 +119,13 @@ def sarsa(env,
 
 
 ### First Visit Monte Carlo Estimates
-![Uploading svf.png…]()
+![svf](https://github.com/Kishore00007/sarsa-learning/assets/94233985/dde19f7c-cc52-416a-b896-bcb6c89eac7a)
 
 
 
 ### Sarsa Estimates:
-![Uploading sarsa.png…]()
+![sarsa](https://github.com/Kishore00007/sarsa-learning/assets/94233985/30224541-b484-4729-b0fa-f3f0372fd470)
+
 
 
 
